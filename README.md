@@ -1,4 +1,4 @@
-# Build-Robot-Leg 
+# Build-Robot-Legs
 </br >
 
 ## About this repository❓</br >
