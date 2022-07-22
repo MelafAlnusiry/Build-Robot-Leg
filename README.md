@@ -11,7 +11,10 @@
 ### is a mechanical leg that performs the same functions that a human leg can </br > 
 </br > 
 
-## Here is the view of the robot legs:
+## Here is the view of the robot legs🔍: </br >
+
+
+<img src="images/Legs.png" width="700">
 
 
 
