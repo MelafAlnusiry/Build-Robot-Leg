@@ -3,7 +3,7 @@
 
 ## About this repository❓</br >
 
-### This repository includes my work on the first tasl in Mechanical engineering , Which is build a two robot leg . </br >
+### This repository includes my work on the first task in Mechanical engineering, Which is build a two robot leg . </br >
 </br >
 
 ## Robot leg 🦿: </br >
